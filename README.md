@@ -10,4 +10,6 @@ MP3 decoder: VS1053
 Video decoder: libjpeg
 File from uSD (SDIO interface)
 
+The video https://youtu.be/bQhOgEav7IY
+
 Have fun...
